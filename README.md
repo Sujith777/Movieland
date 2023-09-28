@@ -1,7 +1,7 @@
 A responsive web application that displays movies matching a search query. The movies data is fetched using OMDB API.
 
 # Live Preview
-https://exquisite-hamster-0f6d1a.netlify.app/
+https://bsp-movieland.netlify.app/
 
 # Getting Started with Create React App
 
